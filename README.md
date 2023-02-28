@@ -79,3 +79,12 @@ python3 manage.py createsuperuser
 ```
 При отправке запросов к API в заголовке передавайте токен 
 Authorization Bearer <Ваш Токен>
+
+
+#Об Авторе
+
+Самсонов Дмитрий
+```
+github : github.com/Samsooon
+twitter : twitter.com/D_Samsooon
+```
